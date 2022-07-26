@@ -3,7 +3,10 @@ I created this project so that people can book their food from online.\
 Here it has many different types of foods customers cab book accpurding to their favourites.\
 Here it is a 24/7 service customers can book at any time they want.\
 I also deployed my project in the Azure Portal.\
-Azure Link : - 
+
+# project demo Link : 
+
+https://victorious-beach-081b71d10.1.azurestaticapps.net/
 
 # Screen Shots of website : - 
 
